@@ -1,6 +1,5 @@
 ### __hey__ 👋
-#### i'm `dhyey` (pronounced "dee-ay" or ધ્યેય) 🚀
----
+##### i'm `dhyey` (pronounced "dee-ay" or ધ્યેય) 🚀
 ↳ i'm a rising software engineering student with a passion in tech 🌱
 
 ↳ i've worked extensively in _Python_ 🐍 with various data sci. and web dev. technologies, currently getting better at 😱*JavaScript*😱
