@@ -8,7 +8,7 @@
 
 ↳ i'm always open to meeting new people 🕊! feel free to email me or reach out to me on [Linkedin]
 
-↳ as i'm still learning, please don't hesitate to provide any feedback you may have regarding my projects :)
+↳ as i'm still learning, please don't hesitate to provide any feedback you may have regarding my projects or contribs :)
 
 <details>
  <summary><b>random github stats</b> 🥳</summary>
