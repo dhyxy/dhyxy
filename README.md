@@ -16,7 +16,7 @@
  
  ![my github stats](https://github-readme-stats.vercel.app/api?username=DhyeyLalseta&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff&count_private=true&include_all_commits=true&show_icons=true)
  
- ![my top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyeyLalseta&hide=css,html&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+ ![my top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhyeyLalseta&hide=css,html,jupyter%20notebook&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 </details>
 
 ##
