@@ -2,7 +2,7 @@
 #### i'm `dhyey` (pronounced "dee-ay" or ધ્યેય) 🚀
 ↳ a rising software engineering student with a passion in tech 🌱
 
-↳ worked extensively in _Python_ 🐍 and _JavaScript_ with various data sci. and web dev. technologies
+↳ worked extensively in _Python_ 🐍 and _TypeScript_ with various data sci. and web dev. technologies
 
 ↳ new opportunities excite me and i'm constantly seeking new ways to learn and develop my skillset 🎼
 
