@@ -6,7 +6,7 @@
 
 ↳ new opportunities excite me and i'm constantly seeking new ways to learn and develop my skillset 🎼
 
-↳ i'm always open to meeting new people 🕊! feel free to email me or reach out to me on [Linkedin]
+↳ i'm always open to meeting new people 🕊 feel free to email me or reach out to me on [Linkedin]
 
 ↳ as i'm still learning, please don't hesitate to provide any feedback you may have regarding my projects or contribs :)
 
