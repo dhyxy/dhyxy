@@ -24,4 +24,4 @@ my [personal website], my [resume] ❤️
 
   [LinkedIn]: <https://www.linkedin.com/in/dhyeylalseta>
   [personal website]: <https://dhyeylalseta.github.io>
-  [resume]: <https://drive.google.com/file/d/1FqspaZ08H77ZxliGgJ5XuBg4mX7kC9vD/view?usp=sharing>
+  [resume]: <https://drive.google.com/file/d/1KQhaJ4hscctOzzmFePLbr2K_ucjZH5qj/view?usp=sharing>
