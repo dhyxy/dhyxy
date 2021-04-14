@@ -23,5 +23,5 @@
 my [personal website], my [resume] ❤️
 
   [LinkedIn]: <https://www.linkedin.com/in/dhyeylalseta>
-  [personal website]: <https://dhyeylalseta.github.io>
+  [personal website]: <https://dhyxy.github.io>
   [resume]: <https://drive.google.com/file/d/1KQhaJ4hscctOzzmFePLbr2K_ucjZH5qj/view?usp=sharing>
