@@ -14,9 +14,9 @@
  <summary><b>random github stats</b> 🥳</summary>
  <br>
  
- ![my github stats](https://github-readme-stats.vercel.app/api?username=dhyxy&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff&count_private=true&include_all_commits=true&show_icons=true?)
+ ![my github stats](https://github-readme-stats.vercel.app/api?username=dhyxy&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff&count_private=true&include_all_commits=true&show_icons=true)
  
- ![my top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyxy&hide=css,html,jupyter%20notebook&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff?)
+ ![my top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhyxy&hide=css,html,jupyter%20notebook&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 </details>
 
 ##
