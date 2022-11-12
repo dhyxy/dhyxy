@@ -2,11 +2,11 @@
 #### i'm `dhyey` (pronounced "dee-ay" or ધ્યેય) 🚀
 ↳ a rising software engineering student with a passion in tech 🌱
 
-↳ worked extensively in _Python_ 🐍 and _TypeScript_ with various data sci. and web dev. technologies
+↳ worked extensively in _python_ 🐍 and _typescript_ with various data sci. and web dev. technologies
 
 ↳ new opportunities excite me and i'm constantly seeking new ways to learn and develop my skillset 🎼
 
-↳ i'm always open to meeting new people 🕊 feel free to email me or reach out to me on [Linkedin]
+↳ i'm always open to meeting new people 🕊 feel free to email me or reach out to me on [linkedin]
 
 ↳ as i'm still learning, please don't hesitate to provide any feedback you may have regarding my projects or contribs :)
 
@@ -20,8 +20,5 @@
 </details>
 
 ##
-my [personal website], my [resume] ❤️
 
-  [LinkedIn]: <https://www.linkedin.com/in/dhyeylalseta>
-  [personal website]: <https://dhyxy.github.io>
-  [resume]: <https://drive.google.com/file/d/1KQhaJ4hscctOzzmFePLbr2K_ucjZH5qj/view?usp=sharing>
+  [linkedin]: <https://www.linkedin.com/in/dhyeylalseta>
